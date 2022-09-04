@@ -385,7 +385,7 @@ html{
 }
 .modal-content {
     animation: modalFadein ease .5s;
-    width: 900px;
+    width: 80%;
     min-height: 465px;
     background-color: #fff;
     position: relative;
